@@ -140,3 +140,17 @@ h1.profile-name {
     margin-top: 0;
     margin-bottom: 20px;
 }
+.profile-header {
+    width: 100%;
+    text-align: center;
+}
+
+.profile-name {
+    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    margin: 0 0 20px 0;
+    line-height: 1.3;
+}
