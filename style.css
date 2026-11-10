@@ -154,3 +154,22 @@ h1.profile-name {
     margin: 0 0 20px 0;
     line-height: 1.3;
 }
+
+body,
+td,
+th,
+tr,
+p,
+a,
+strong,
+heading,
+papertitle,
+.profile-name {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.profile-name {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
